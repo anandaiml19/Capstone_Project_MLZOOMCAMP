@@ -13,28 +13,28 @@ The model developed from this project can serve as tool for the farmers to ident
 The model developed from this project can also be used to isolate the healthy and diseased mangoes that in turn may be helpful for the final packing of good mangos.
 A total of images belonging to five different classes viz., Anthracnose, Alternaria, Black Mould,Stem and Rot and healthy were used for this project. 
 
-<p  align="center"><img width="50%" src="https://github.com/anandaiml19/mango-fruit-disease-classifier/blob/main/im1.png" /></a></p>
+<p  align="center"><img width="50%" src="https://github.com/anandaiml19/Capstone_Project_MLZOOMCAMP/blob/main/im1.png" /></a></p>
 
 ### __Image Preprocessing and Sizing – Exploratory Image Analysis__ 
-<p  align="center"><img width="70%" src="https://github.com/anandaiml19/mango-fruit-disease-classifier/blob/main/im2.png" /></a></p>
+<p  align="center"><img width="70%" src="https://github.com/anandaiml19/Capstone_Project_MLZOOMCAMP/blob/main/im2.png" /></a></p>
 
 ### Image Train-Validation-Test Split
-<p  align="center"><img width="70%" src="https://github.com/anandaiml19/mango-fruit-disease-classifier/blob/main/OT1.jpg" /></a></p>
+<p  align="center"><img width="70%" src="https://github.com/anandaiml19/Capstone_Project_MLZOOMCAMP/blob/main/OT1.jpg" /></a></p>
 
 ### CNN Model parameters and Tuning
-<p  align="center"><img width="70%" src="https://github.com/anandaiml19/mango-fruit-disease-classifier/blob/main/OT2.jpg" /></a></p>
+<p  align="center"><img width="70%" src="https://github.com/anandaiml19/Capstone_Project_MLZOOMCAMP/blob/main/OT2.jpg" /></a></p>
  
  ### Model Evaluation and Test Image Prediction
-<p  align="center"><img width="50%" src="https://github.com/anandaiml19/mango-fruit-disease-classifier/blob/main/im3.png" /></a></p>
+<p  align="center"><img width="50%" src="https://github.com/anandaiml19/Capstone_Project_MLZOOMCAMP/blob/main/im3.png" /></a></p>
 
 ***Web Service – Flask ,Html and Docker (Testing the final model with new images)***
 
 ### New Imaages predicted by the Final CNN model
-<p  align="center"><img width="50%" src="https://github.com/anandaiml19/mango-fruit-disease-classifier/blob/main/OT3.jpg" /></a></p>
-<p  align="center"><img width="50%" src="https://github.com/anandaiml19/mango-fruit-disease-classifier/blob/main/OT5.jpg" /></a></p>
-<p  align="center"><img width="50%" src="https://github.com/anandaiml19/mango-fruit-disease-classifier/blob/main/OT6.jpg" /></a></p>
-<p  align="center"><img width="50%" src="https://github.com/anandaiml19/mango-fruit-disease-classifier/blob/main/OT8.jpg" /></a></p>
-<p  align="center"><img width="50%" src="https://github.com/anandaiml19/mango-fruit-disease-classifier/blob/main/OT9.jpg" /></a></p>
+<p  align="center"><img width="50%" src="https://github.com/anandaiml19/Capstone_Project_MLZOOMCAMP/blob/main/OT3.jpg" /></a></p>
+<p  align="center"><img width="50%" src="https://github.com/anandaiml19/Capstone_Project_MLZOOMCAMP/blob/main/OT5.jpg" /></a></p>
+<p  align="center"><img width="50%" src="https://github.com/anandaiml19/Capstone_Project_MLZOOMCAMP/blob/main/OT6.jpg" /></a></p>
+<p  align="center"><img width="50%" src="https://github.com/anandaiml19/Capstone_Project_MLZOOMCAMP/blob/main/OT8.jpg" /></a></p>
+<p  align="center"><img width="50%" src="https://github.com/anandaiml19/Capstone_Project_MLZOOMCAMP/blob/main/OT9.jpg" /></a></p>
 
 ***Steps Involved in deployment in Azure***
 
